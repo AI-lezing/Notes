@@ -1,2 +1,2 @@
-# Notes-Reading
+# Notes
 Notes from the paper discussion 

@@ -15,4 +15,7 @@
 * 1-bit LLMs : https://arxiv.org/abs/2402.17764
 * BitNet     : https://arxiv.org/abs/2310.11453
 
+## 6 April 2024: Doc LLMs
+* Doc LLMs https://arxiv.org/abs/2401.00908
+
 

@@ -4,7 +4,7 @@ Shuming Ma, Hongyu Wang, Lingxiao Ma, Lei Wang, Wenhui Wang, Shaohan Huang, Li D
 
 # arXiv Paper
 
-The paper for 1 bit LLM can be found here - [1 bit LLMs](https://arxiv.org/abs/2310.11453)
+The paper for 1 bit LLM can be found here - [1 bit LLMs](https://arxiv.org/abs/2310.11453)   
 The paper for BitNet can be found here - [BitNet](https://arxiv.org/abs/2310.11453)
 
 # Slides

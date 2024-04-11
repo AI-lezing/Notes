@@ -2,6 +2,8 @@
 <!-- markdownlint-disable MD022 -->
 # DocLLM
 
+[arxiv paper link](https://arxiv.org/abs/2401.00908)
+
 ![overview](./images/overview.png)
 ## Two stage training process
 

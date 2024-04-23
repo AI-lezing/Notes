@@ -18,4 +18,9 @@
 ## 6 April 2024: Doc LLMs
 * DocLLM : https://arxiv.org/abs/2401.00908
 
+## 20 April 2024: LoRA and QLoRA
+* LoRA : https://arxiv.org/abs/2106.09685
+* QLoRA : https://arxiv.org/abs/2305.14314
+
+
 

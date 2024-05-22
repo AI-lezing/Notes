@@ -22,6 +22,6 @@
 * LoRA : https://arxiv.org/abs/2106.09685
 * QLoRA : https://arxiv.org/abs/2305.14314
 
-## 18 May 2024: Better & Faster Large Language Models via Multi-token Prediction
-* Multi-tokem LLM FAIR : https://arxiv.org/pdf/2404.19737
+## 18 May 2024: Multi-token Prediction
+* Better & Faster Large Language Models via Multi-token prediction : https://arxiv.org/pdf/2404.19737
   

@@ -22,9 +22,14 @@
 * LoRA : https://arxiv.org/abs/2106.09685
 * QLoRA : https://arxiv.org/abs/2305.14314
 
+## 27 April 2024: Predictive World Model
+* Predictive World Model : [https://arxiv.org/abs/2305.18290](https://arxiv.org/pdf/2312.17655)
+
 ## 11 May 2024: DPO
 * Direct Preference Optimization: Your Language Model is Secretly a Reward Model : https://arxiv.org/abs/2305.18290
 
 ## 18 May 2024: Multi-token Prediction
 * Better & Faster Large Language Models via Multi-token prediction : https://arxiv.org/pdf/2404.19737
-  
+
+## 1 June 2024: LANISTR
+* LANISTR: Multimodal Learning from Structured and Unstructured Data : [https://arxiv.org/pdf/2404.19737](https://arxiv.org/pdf/2305.16556)

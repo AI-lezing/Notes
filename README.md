@@ -22,6 +22,9 @@
 * LoRA : https://arxiv.org/abs/2106.09685
 * QLoRA : https://arxiv.org/abs/2305.14314
 
+## 11 May 2024: DPO
+* Direct Preference Optimization: Your Language Model is Secretly a Reward Model : https://arxiv.org/abs/2305.18290
+
 ## 18 May 2024: Multi-token Prediction
 * Better & Faster Large Language Models via Multi-token prediction : https://arxiv.org/pdf/2404.19737
   

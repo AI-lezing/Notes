@@ -33,3 +33,4 @@
 
 ## 1 June 2024: LANISTR
 * LANISTR: Multimodal Learning from Structured and Unstructured Data : [https://arxiv.org/pdf/2404.19737](https://arxiv.org/pdf/2305.16556)
+* MAGNUM: https://arxiv.org/pdf/2403.04866

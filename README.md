@@ -9,7 +9,9 @@
 8. Sivamani, Varun
 9. Tule, Sanjana
 10. Toleti, Sri Ramya
-
+11. Gupta, Shashank
+12. Aizpuru, Luis
+13. Shah, Darshat
 
 ## 23 March 2024: 1-bit LLMs
 * 1-bit LLMs : https://arxiv.org/abs/2402.17764

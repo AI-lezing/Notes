@@ -34,3 +34,7 @@
 ## 1 June 2024: LANISTR
 * LANISTR: Multimodal Learning from Structured and Unstructured Data : [https://arxiv.org/pdf/2404.19737](https://arxiv.org/pdf/2305.16556)
 * MAGNUM: https://arxiv.org/pdf/2403.04866
+
+## 8 June 2024: Transformer models are secretly linear
+* Your Transformer is Secretly Linear : https://arxiv.org/pdf/2405.12250
+

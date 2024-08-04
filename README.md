@@ -40,5 +40,8 @@
 ## 8 June 2024: Transformer models are secretly linear
 * Your Transformer is Secretly Linear : https://arxiv.org/pdf/2405.12250
 
+## 15 June 2024: MEGABYTE: Predicting Million-byte Sequences with Multiscale Transformers
+* MEGABYTE: Predicting Million-byte Sequences with Multiscale Transformers : [https://arxiv.org/pdf/2405.12250](https://arxiv.org/abs/2305.07185)
+
 ## 3 August 2024: MetaSumPerceiver: Multimodal Multi-Document Evidence Summarization for Fact-Checking
 * MetaSumPerceiver : https://arxiv.org/abs/2407.13089
